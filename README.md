@@ -1,4 +1,4 @@
-# oracle_mcp
+# Oracle MCP
 
 A [Model Context Protocol](https://modelcontextprotocol.io) (MCP) server that exposes an
 **Oracle Database** to any MCP-compatible client (Claude Code, Claude Desktop, Cursor, Cline,
